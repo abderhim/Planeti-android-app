@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_about"
+
+        android:icon="@android:drawable/ic_menu_help"
+        android:title="Your Matches" />
+    <item
+        android:id="@+id/logout"
+
+        android:icon="@android:drawable/ic_menu_help"
+        android:title="Logout "/>
+
+
+</menu>

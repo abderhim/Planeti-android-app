@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Planeti</string>
+    <string name="Title"></string>
+
+    <string name="facebook_app_id">1571525999600592</string>
+    <string name="fb_login_protocol_scheme">LOGIN PROTOCOL</string>
+</resources>

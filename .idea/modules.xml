@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Planeti/Planeti.iml" filepath="$PROJECT_DIR$/Planeti/Planeti.iml" />
+      <module fileurl="file://$PROJECT_DIR$/premierleague.iml" filepath="$PROJECT_DIR$/premierleague.iml" />
+    </modules>
+  </component>
+</project>
